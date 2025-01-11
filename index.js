@@ -1,3 +1,3 @@
 import TelegramUsername from "./TelegramUsername.js";
 
-console.log(TelegramUsername.sumOfCountOfUsernames([32]));
+console.log(TelegramUsername.countOfUsernames(5));
