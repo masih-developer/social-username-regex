@@ -1,4 +1,4 @@
-# Username Regex Repository
+# Social Username Regex
 
 A TypeScript library that provides regular expressions for validating usernames on various social media platforms, such as Telegram, Instagram, Twitter, and more.
 
